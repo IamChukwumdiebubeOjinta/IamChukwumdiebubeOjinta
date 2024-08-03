@@ -1,5 +1,5 @@
 
-<h1>My Name is Chukwumdiebube Ojinta</h1>
+<h1>Chukwumdiebube Ojinta</h1>
 <h2>Web Developer(React | NextJs | Vue | FastApi | Nest | Docker)</h2>
 
 ## 🏆 GitHub Profile Trophy
