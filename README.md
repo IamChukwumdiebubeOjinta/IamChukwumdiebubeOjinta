@@ -4,7 +4,7 @@
 
 ## 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IamChukwumdiebubeOjinta&rank=-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IamChukwumdiebubeOjinta)](https://github.com/ryo-ma/github-profile-trophy)
 
 # My Tech Stack
 
