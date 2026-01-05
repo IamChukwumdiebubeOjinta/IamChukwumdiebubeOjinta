@@ -1,6 +1,6 @@
 
 <h1>Chukwumdiebube Ojinta</h1>
-<h2>Senior Full-Stack Engineer | 4+ Years | React • Node.js • AI Systems</h2>
+<h2>Full-Stack Engineer | 4+ Years | React • Node.js • AI Systems</h2>
 
 # My Tech Stack
 
