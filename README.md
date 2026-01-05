@@ -28,16 +28,8 @@ I'm a full-stack engineer passionate about building scalable, high-performance a
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/chukwumdiebube-ojinta](https://linkedin.com/in/chukwumdiebube-ojinta )
-- 🌐 **Portfolio:** [iamebube.netlify.app](https://iamebube.vercel.app/ )
+- 🌐 **Portfolio:** [my portfolio](https://iamebube.vercel.app/ )
 - 📧 **Email:** chukwumdiebubeojinta@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamChukwumdiebube&show_icons=true&theme=dark )
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamChukwumdiebube&layout=compact&theme=dark )
 
 ---
 
